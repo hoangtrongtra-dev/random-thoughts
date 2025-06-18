@@ -1,3 +1,6 @@
+# Project Idea Description
+🧠Web “random thoughts” - A random thought appears every time it reloads, which the user can save if they like.
+
 # PREVIEWS
 
 English
